@@ -1,0 +1,15 @@
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\bin\Debug\MasterFloor.exe.config
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\bin\Debug\MasterFloor.exe
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\bin\Debug\MasterFloor.pdb
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.csproj.AssemblyReference.cache
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MainWindow.g.cs
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\App.g.cs
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor_MarkupCompile.cache
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor_MarkupCompile.lref
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MainWindow.baml
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.g.resources
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.Properties.Resources.resources
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.csproj.GenerateResource.cache
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.csproj.CoreCompileInputs.cache
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.exe
+C:\Users\comcuru\Desktop\KT7_Filonov_ISP411\MasterFloor\obj\Debug\MasterFloor.pdb
